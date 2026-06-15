@@ -1,0 +1,15 @@
+react
+-> react-dom --> mainly for web dev
+-> react-native--> mainly for app dev
+
+
+npm- node package manager
+npx- node package executer
+
+To create react basic thing:
+1}
+// to create a utility/software
+npx create-react-app 01basicreact // dont use this method as its time consuming and a bulky utility1
+
+2} since npx is bulky we use *vite*
+vite-->  https://vite.dev/
