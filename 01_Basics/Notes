@@ -13,3 +13,16 @@ npx create-react-app 01basicreact // dont use this method as its time consuming 
 
 2} since npx is bulky we use *vite*
 vite-->  https://vite.dev/
+
+
+To create a new vite project use *npm create vite@latest*
+
+u need to give:
+1.project name
+2.framework- react
+3.variant- js
+4.install npm - yes
+
+then to run the js files in terminal: 
+    check for the scripts within the package.json folder
+    give npm run dev

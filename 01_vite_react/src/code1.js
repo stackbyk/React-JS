@@ -4,4 +4,4 @@ function code() {
 
 export default code;
 
-// SPA - single page application
+// SPA - single page application used for html injecting script tags of js
